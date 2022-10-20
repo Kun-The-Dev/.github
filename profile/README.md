@@ -11,7 +11,8 @@
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="../images/php.svg" alt="php" style="vertical-align:top; margin:4px">
+  ![php](https://user-images.githubusercontent.com/116045818/196899142-8f53a382-9b89-4c49-8eca-bf2aef25511d.svg)
+
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="../images/dart.svg" alt="dart" style="vertical-align:top; margin:4px">
   <img src="../images/swift.svg" alt="swift" style="vertical-align:top; margin:4px">
