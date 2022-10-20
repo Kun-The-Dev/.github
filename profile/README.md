@@ -11,19 +11,25 @@
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+  <img src="../images/php.svg" alt="php" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="../images/dart.svg" alt="dart" style="vertical-align:top; margin:4px">
+  <img src="../images/swift.svg" alt="swift" style="vertical-align:top; margin:4px">
+  <img src="../images/go.svg" alt="go" style="vertical-align:top; margin:4px">
+  <img src="../images/go.svg" alt="go" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+  <img src="../images/mobile.svg" alt="mobile" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="../images/kubernetes.svg" alt="mobile" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="../images/xcode.svg" alt="xocde" style="vertical-align:top; margin:4px">
+  <img src="../images/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
 </p>
 
 # 📊  Company Service
@@ -40,10 +46,10 @@ There are some reason to choose Relipa as your partner
   * [Trustworthy and satisfactory](https://relipa.global/our-service): High quality human resources who mainly come from top ranked universities.
   * [Fair price - Hight-quality](https://relipa.global/our-service): Provide better pricing than other competitors.
 
-# 🛠️ Project
+<!-- # 🛠️ Project
 <a href="#" target="_blank"> <img alt="artistify" src="https://api.relipa.global/storage/421/Shop-in2.jpg" height="150" align="left"> </a>
 <a href="#" target="_blank"> <img alt="artistify" src="https://api.relipa.global/storage/456/Waccha-full.jpg" height="150" align="left"> </a>
 <a href="#" target="_blank"> <img alt="artistify" src="https://api.relipa.global/storage/455/Syulip-full.png" height="150" align="left"> </a>
 <a href="#" target="_blank"> <img alt="artistify" src="https://api.relipa.global/storage/397/nft-marketplace-3.png" height="150" align="left"> </a>
 <a href="#" target="_blank"> <img alt="artistify" src="https://api.relipa.global/storage/385/Widi-5.png" height="150" align="left"> </a>
-<a href="#" target="_blank"> <img alt="artistify" src="https://api.relipa.global/storage/451/nft-items.png" height="150" align="left"> </a>
+<a href="#" target="_blank"> <img alt="artistify" src="https://api.relipa.global/storage/451/nft-items.png" height="150" align="left"> </a> -->
