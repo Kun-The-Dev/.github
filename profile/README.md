@@ -56,3 +56,6 @@
 <a href="#" target="_blank"> <img alt="artistify" src="https://api.relipa.global/storage/421/Shop-in2.jpg" height="150" align="left"> </a>
 <a href="#" target="_blank"> <img alt="artistify" src="https://api.relipa.global/storage/456/Waccha-full.jpg" height="150" align="left"> </a>
 <a href="#" target="_blank"> <img alt="artistify" src="https://api.relipa.global/storage/455/Syulip-full.png" height="150" align="left"> </a>
+<a href="#" target="_blank"> <img alt="artistify" src="https://api.relipa.global/storage/397/nft-marketplace-3.png" height="150" align="left"> </a>
+<a href="#" target="_blank"> <img alt="artistify" src="https://api.relipa.global/storage/385/Widi-5.png" height="150" align="left"> </a>
+<a href="#" target="_blank"> <img alt="artistify" src="https://api.relipa.global/storage/451/nft-items.png" height="150" align="left"> </a>
