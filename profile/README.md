@@ -11,26 +11,24 @@
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  ![php](https://user-images.githubusercontent.com/116045818/196899142-8f53a382-9b89-4c49-8eca-bf2aef25511d.svg)
-
+  <img src="https://user-images.githubusercontent.com/116045818/196899142-8f53a382-9b89-4c49-8eca-bf2aef25511d.svg" alt="php" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="../images/dart.svg" alt="dart" style="vertical-align:top; margin:4px">
-  <img src="../images/swift.svg" alt="swift" style="vertical-align:top; margin:4px">
-  <img src="../images/go.svg" alt="go" style="vertical-align:top; margin:4px">
-  <img src="../images/go.svg" alt="go" style="vertical-align:top; margin:4px">
+  <img src="https://user-images.githubusercontent.com/116045818/196900267-547d84d4-5535-4fa2-9fa2-97ebfdaeb9c2.svg" alt="dart" style="vertical-align:top; margin:4px">
+  <img src="https://user-images.githubusercontent.com/116045818/196900334-406dcf71-76c8-4c32-9fda-52f1eeade065.svg" alt="swift" style="vertical-align:top; margin:4px">
+  <img src="https://user-images.githubusercontent.com/116045818/196900475-2099a942-4fbb-49ad-8a5a-58f01acf80fd.svg" alt="go" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="../images/mobile.svg" alt="mobile" style="vertical-align:top; margin:4px">
+  <img src="https://user-images.githubusercontent.com/116045818/196900577-e30efc6f-671b-435a-98be-66c421bf8f10.svg" alt="mobile" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="../images/kubernetes.svg" alt="mobile" style="vertical-align:top; margin:4px">
+  <img src="https://user-images.githubusercontent.com/116045818/196900646-97bd273e-9256-40fa-8eee-b92f950ccbbb.svg" alt="mobile" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="../images/xcode.svg" alt="xocde" style="vertical-align:top; margin:4px">
-  <img src="../images/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
+  <img src="https://user-images.githubusercontent.com/116045818/196900714-a13fcf92-3e83-4c8c-9fc1-7e9ae8875d6f.svg" alt="xocde" style="vertical-align:top; margin:4px">
+  <img src="https://user-images.githubusercontent.com/116045818/196900771-c520ff76-b92c-4b27-8a46-43809ec1cde0.svg" alt="docker" style="vertical-align:top; margin:4px">
 </p>
 
 # 📊  Company Service
