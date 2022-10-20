@@ -6,8 +6,6 @@
 
 [Relipa](https://relipa.global/) is a system development company providing services, software and IT solutions, established in 2016. We have headquarter in Hanoi and international office in Tokyo, Japan.  Along with extensive working experience, Relipa holds enough resources and experience to be ready to develop with all businesses in all industries, as well as participate in contributing to socio-economic development
 
-<image src="https://text.relipasoft.com/wp-content/uploads/2020/07/6-650x434.png" alt="Relipa imgae1" title="Relipa" width="100%"/>
-
 
 # 🔨  Languages and Tools..
 <p align="center">
